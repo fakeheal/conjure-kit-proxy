@@ -1,0 +1,7 @@
+{
+  "minimum-stability": "dev",
+  "require": {
+    "fakeheal/cors-anywhere": "dev-main",
+    "vlucas/phpdotenv": "5.5.x-dev"
+  }
+}
